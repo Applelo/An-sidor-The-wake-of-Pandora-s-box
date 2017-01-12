@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="963" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="972" name="box" tilewidth="16" tileheight="16">
+  <image source="../../texture/box.png" width="16" height="16"/>
+ </tileset>
+ <layer name="eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxrZGBgaBzFo3gUj+JRPIpH8YjAADoaAQ4=
+  </data>
+ </layer>
+ <layer name="terre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4D6gBUPZqOhvSp4sOoA2QvCtAoLQvbSKizItRcWFuT6mxJ7KbGfGvaCsCAeLERDew3wYMNhaK8/HhxAQ3tJzVcDZS8AD2cewA==
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIxH8YGRg+MlIe3tuotkhzsTAIMFEe3tJAdQMi31AvB+ID+CQRw4PaobFXSC+B8T30eyCuQeGcbmLXPAHyV7kcIS55x4Dpruoafc/BtRwRLf3H1QtejrMIBET45a/UPwPj7pFQLwYB15CwA50P1ALGJBhHzY5ZDFi3IrLXkKAVuFADbCMRDxQAACaVTsb
+  </data>
+ </layer>
+ <layer name="barrière" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAqGD1gExItx4CUD6C5ywX8QwQhEjNQxDwDMYQYb
+  </data>
+ </layer>
+ <layer name="arbre frontière" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAoGFzjEjIrpaRcxdqPL/WBkYPjJSF170e3AJifOxMAgwUSavQAPUxh4
+  </data>
+ </layer>
+ <layer name="box" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUUBOIQ/FgsVccj9xQthdmx0DYOwpGwVAGAHjXAXE=
+  </data>
+ </layer>
+ <layer name="coli" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztkEEKACEMAwX//6uy+iy9yEKo2mp2vRjIKZJJTTGEdH1Ndk9PzfIBbtMfXOsWxl9YuLP3LG67Z8bd4WsdXu4Km6VTXO8ulMTXX3IFjJkmbRf2jHotRoYo2Uqvl8/qKyNkKHI=
+  </data>
+ </layer>
+</map>

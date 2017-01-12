@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="collisions" tilewidth="16" tileheight="16">
+  <image source="collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="971" name="arbre" tilewidth="22" tileheight="32">
+  <image source="texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="972" name="Tile" tilewidth="16" tileheight="16">
+  <image source="Tile.png" width="700" height="500"/>
+ </tileset>
+ <layer name="Calque 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzt0bkNgEAUA1FLuylXORzlAFsOiBK56mBKIHL0R3qxA0vRn64k3XjwJt9unaUGLbrs2+3ZGjBiMu7ObC1YUYy7G1s7Khw4jR9HURQ5+wBYOwlA
+  </data>
+ </layer>
+</map>

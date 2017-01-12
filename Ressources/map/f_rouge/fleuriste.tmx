@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="971" name="Tile" tilewidth="16" tileheight="16">
+  <image source="../../Tile.png" width="700" height="500"/>
+ </tileset>
+ <layer name="Calque 3" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJz7y8zA8HcUj+JRPIpHKK5gZGCoRMJVjJhqxBmob+90oD0zkPDMQWIvyE5a2LsNaM92JLyDTvYSwgNpL7l6GSh0LwCruOzT
+  </data>
+ </layer>
+ <layer name="base" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJztkE0OQTEUhW+1byfPiwgW9WIBGGETYoSZFWD0WAVG2AomTiKSavqTW9JE4iRfbtrcni9pj4j6iRmACaXPVPPuJdHBwlHye0NduveKuxs4KaIzuKjn+R7hDXXZvCIjqgGZfe51ddm8Ley0QecLXleX7s3xF3ULheJ7Q126N2X+3t/35oKoxCwEzzvE/shgbOlwpcTuErPL9M6wPzdYMLy++LwVHFuDXQKvL03xPmO8K7BmsgENFff29f4BwwVrNg==
+  </data>
+ </layer>
+ <layer name="Calque 3" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBj84AYjBBMSIwfcAZpxF4jvETCrl4U6Zm0BmrOVBb9YO1B/BxbcyUi6WQMNqOlGcswiNn6JAdQ0a6SARGDcCLJS18y7zMTlR3YS7Y0nYKY4EAsBzRQGYlMcakH+taGyf8WhmB5AHI1NC3vRwxndHnEsYtQG2OwQxyFOCzspNZ+HwjIeANBzI3s=
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJw7xszAcGyAMLHgJDMEExIjBJDtpYa70M3FZRap9hLrNmrbO1D+HU720hMMFXup5UZS45AUdaTks5ME3EArewnppYa95JY5lNhLSZlILsBnJ7FmI7ufWnYSiyk1DwA06bu3
+  </data>
+ </layer>
+</map>

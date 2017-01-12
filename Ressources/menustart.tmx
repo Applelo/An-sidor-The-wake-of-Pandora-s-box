@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="texture.png" width="350" height="300"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJyTYmBgkBrFo3gUj+JRPIpH8YjAANxyM80=
+  </data>
+ </layer>
+ <layer name="Calque 2" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJy9lOENgjAQhWuC7mDYQdxB2EHcAdhB3UHYAZzRR2ITct6dvUL6ku9f2/d6117mnNsn5gCOLr1yxveyizvLso/zVc8GJahskUy+V+SvyR0a0ILO6ENrofk2WNsG1I7L90/WOnMKzaf53sEDPFdm8ZJqQX1foAcDWae9VS2rVAvqO4IJvGWbH0lZNW3R35isW/iGatkryVfrp+Xf+DlDZ03MfUP+jc89z5n6y22lr1XcjEvZ36Vm3xMoEnMGH9gLIdo=
+  </data>
+ </layer>
+</map>

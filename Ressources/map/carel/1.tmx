@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="971" name="Tile" tilewidth="16" tileheight="16">
+  <image source="../../Tile.png" width="700" height="500"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzFlWkOgyAQRodzWGm9RqP2HJV6/2t0JoVk8sWFQaokL/xgebNgbBzRrSItMzBjpFnYI+PJc0f1COB9M5NC9vSuvlfQXqTUK2cfO2e0d4D8j3hfGV4ZnudPZFbu5A1Gd45X7veRO9S6tL853uTEGpfW2erFN9X9WmD2eleOjiF51949xnrEq/mHF78dgahevlv9XSKttxd5+xO840XevXxzWYvHgnjxP7VFAKflLN7zBbpVWno=
+  </data>
+ </layer>
+ <layer name="maison" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYKANsGXELScLlbMG0lFUwoTstUYStwGyrwLxNQL4OppZzUBcARSrhOIqIG4lYK8Vmr1fgPgrEVgbzd7pQLEZUDxzENhrR0V7v2EJZ3r4F5u924Bi26F4B5K9uAC6vcJMDAwiBLAoE6oZi4B4MRpeQsDeSKBd0YwIe6kB5AiYI8+IwNSyl5Cd2ACl9hJjZywjKqaGvaQAabR0RS+Anp5JBeTEJ6X2kmsnur2gOkKGCAyqv5DtlCZSHzK2psDN1AAAD0ZYzg==
+  </data>
+ </layer>
+ <layer name="dessus de maison" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBie4BUzA8NrIH4DxG+Z6WevKAsDgxgQiwOxBAv97B0Fo2A4gNF8OwpGAe0BABAFCEk=
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBia4AcjA8NPRtrbI46EwXwmBgYJJvrZj+EeqP30BIlAnExjO8SxiM0H4oUDYC89ALXttWPEjeWAWB6JTy9gi+YOegGQXbEDYC8IZAFxDhFi1AadQNxNhNiovaMABAB+OROL
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJw7xszAcIzKGBlQ22xi7T3JjIrxqcUHSLX3EJB/GAmTay8xbkAGR0lwIzXtJaSHFLuGg72HicTI5qKnVRimhX+pBYabvcj59ggW84m1F18ZiA0g59vjeNIite0lZM5ItZecuoZcMwbSXgDahrrF
+  </data>
+ </layer>
+</map>

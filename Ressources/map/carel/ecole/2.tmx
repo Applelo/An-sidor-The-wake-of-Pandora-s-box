@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../../texture.png" width="350" height="300"/>
+ </tileset>
+ <tileset firstgid="379" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Calque 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxTY2BgUINiYUYEVmOgDibGTJCcAQ3sNaSymaN4FI/iUTyKhx+mRR1EjF20qHPx2QvDAGtzSno=
+  </data>
+ </layer>
+ <layer name="Calque 2" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJwLYmBgCIbiICgdgiRGKcZmJoidDsQZDBDwC8r+xUA9gM3MTKi9DIxARCfMxIiwVxTIFqMTFh+1d9TeUXtH7R2C9moB2dp0wjpI9oLqiwtUrINwgQtQu0D21gBxLRDXQWlaYmS7AEecTNU=
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9AIRjAwMkYz0tycXyM6jg730smcUjIKBAKP5dxQMFwAATH4GQQ==
+  </data>
+ </layer>
+ <layer name="herbe" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUUAu4Mg6MHVF0sBebHfl0sJcedoyCUTCSAABkxgIj
+  </data>
+ </layer>
+ <layer name="coli" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJyrZ2RgqB8gDAMwNrIYpQCbmej20gvA7K0D4gY62A+zZ6DtpTcYtXfUXlraO5p/aQsGg730sB/ZroHCAMzEOAE=
+  </data>
+ </layer>
+</map>

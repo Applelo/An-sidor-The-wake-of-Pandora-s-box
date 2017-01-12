@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="fleur" tilewidth="3" tileheight="3" spacing="1">
+  <image source="../../texture/fleur.png" width="7" height="15"/>
+ </tileset>
+ <tileset firstgid="9" name="tronc" tilewidth="15" tileheight="12">
+  <image source="../../texture/tronc.png" width="15" height="12"/>
+ </tileset>
+ <tileset firstgid="10" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="971" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="972" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzTZWBg0B3Fo3gUj+JRPIpH8YjAAAGmWac=
+  </data>
+ </layer>
+ <layer name="terre/eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJztlGEOQDAMRrfE2FlxEVwEF8FFcAyfH0vYn7XdSCRe8hKRrtbkK6W+RZaoTwkrWHvvTURPytkGtrAT9J/gDBfB2R4OcCTW28uz0UrlsNCCDwc4Z5LMw8XPjWHOw8mdDZfccFl0+pl8CpcJJzUbErh7xa2P2Y0YVrjBPaKH5O6hnaTkNcXdqbz1P/mhcQDL5RjK
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJw7zczAcJrKGBkQo2awgcHmTlq45xEj9cwaKECpHwiF62CJf1LAYEq3uAC6+4Z6WsQW3oPJT/jSw2BOK4MpDIcbAADQXycK
+  </data>
+ </layer>
+ <layer name="arbre frontière" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYcJoZggfCzoGydyDspKe9yHbS025s9tLa7sFkJy3tHQg78dlPbzBQ9sLsHih78dlNyF3kxBc+PcSkAXLSJz49xKR5fHmDFHcOBAYAqnhfww==
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzVVEEOwCAIM/H/bxOzD21HD1jKhBCb9CRQxIr01uTjE8gV2rksRGDjWEjX+Sd/knljoxl1J69mha4Fa65o3pnzHQeaHp8wvWe8KVOnwkdI34pl/6VXP6rWrj/trFIXaWfsbbQDGA+c7h0tB3n/dr5+Lau8
+  </data>
+ </layer>
+</map>

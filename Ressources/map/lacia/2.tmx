@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="350" height="300"/>
+ </tileset>
+ <tileset firstgid="379" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="388" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <layer name="Calque 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJyLZGBgiBzFo3gUj+JRPIpH8YjAAAbYsU8=
+  </data>
+ </layer>
+ <layer name="terre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BkARYgZkXCbHSyTwoLZsWBKXUTCw77iMHk2k2JneTaTQ07ibEbPX6oZSchu6ltD7F208NebHbTy17pEW4vAKyeFWA=
+  </data>
+ </layer>
+ <layer name="tronc" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDFfgzEiZPL3cMZBgMLsNBEh1H7X9g888dDlahyU17KOmGwd72sEFAJlEA3U=
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0Au0MNLejgigHZEk2kOOHnSQC9SfR6IZ5OihFaBGGJBjJiVhgCs90SpcQfYRSsPEqKG2nbjUkaIXmz5y7CZFL7paamNcAAA3kx6s
+  </data>
+ </layer>
+ <layer name="coli" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztlN0KwCAIheu9pXz0IUxwh3S12m6WcOjHox95Uc0p1a2tH0lCVj73en6TZzkMd17MMHsZGmXBPLDHE+4oe2WUCQ45Hrn3cpbLg1zt63m0/o6N/ohLnfNoeaI5WC56KMh5fawvqsU3U77O1cuh0Neqjbhf/j2qA3z5tzU=
+  </data>
+ </layer>
+</map>

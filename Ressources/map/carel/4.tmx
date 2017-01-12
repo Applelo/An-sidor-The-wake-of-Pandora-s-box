@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="fleur" tilewidth="3" tileheight="3" spacing="1">
+  <image source="../../texture/fleur.png" width="7" height="15"/>
+ </tileset>
+ <tileset firstgid="9" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="970" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJztlV8OgjAMh+ur10Blegx0Q4+Bf7j/EWxjF5rZjBVn4oMPXyBhv34k0LZZAWwMbJEg6JFmQY0OOSLXQm6KdzDkyXViL133UMYB3r2uMEt0P+LdIS3jMu9h9aZ1U68X7m94HZ/VvF7UquWVNTXvnaEzY0WvrDkK38C9cYYXQdxrXBRvnzmf1oy+dgHhjxmarTQv1zCRfj/5bA4/k40+bV6l2dJZFLO5fszNSfr3H4zVG/uRslo/Si/tCMse+4S4jyw7rBbUv08J6XXb
+  </data>
+ </layer>
+ <layer name="maison" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwUgBAAf4AAE=
+  </data>
+ </layer>
+ <layer name="herbe,eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJztkMENQEAQRWfvKAzVoAB0gAKsDlAASvMdJHMxayVLIvuSd/t/fnaJPAcZzGHxcreBLexgqYgqWKvrPM/wri0jnOAMe9zScBB2eYZ3n3C+QVvs6ht/Y4Lfstk1ZU0s6K7MTbhlk/V4viaAoWDkaDeGiWDqaPcv7JBNJ8c=
+  </data>
+ </layer>
+ <layer name="fleur" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwWIIuFeLPLdaGqoae9jRsL2wtRQAtD9oMhE2F6YGnxhQ6y9T4B+eArEz4jwLzFqibUXHRMTv5T4dxUQr8aC11CodhSMAmTAA8QsQMwMxSxY+LQAXkDsjQf70Mje4QIA2Ooe+A==
+  </data>
+ </layer>
+ <layer name="calquetrans" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF6CAXCedhkc9BUzMKRsEoGAWjYBQMFQAANxUDaQ==
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJw7x8zAcI5EjA5I1U8uHrV31F5amEVNtYPF3ovMuDElanHZNxLBKWA4nIbiMySGCbF6sYX3WaR4P0+ivYT0EkpXtAKDxd6RggFzIvNd
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="963" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxTYWBgUBlAfI9OeCDsRLd71N5Re0ftHbV31N7Bae9A1UcDgQFTg3YI
+  </data>
+ </layer>
+ <layer name="herbe, eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzFlUsOgzAMRCki3IE1yUVK738BPgfpqkGqpZFlOw4FOtKsEudNEmKa5hxNhmvqomJrfY9RScjxFJjSvFqNBa7Eft3EJfZUyZwfv3OP6H0Rt8sO2b0yPrTHuEvOu2ZvSu69lu5cY3NR1mhwS0KutxZrSN7cmLmG27Ea5Mbvmta9YWZ0KTOv49zSHqRe4tkzvUXqgxrXeqsSm8/fz9U6M+RSHk9/wPwS07q3q/qG9A0kNo4KJ1n7j9H4v/UB64wfIg==
+  </data>
+ </layer>
+ <layer name="mur/pavé" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGATWBHCMDgzwQKzDS115boH12QGyPx14AWIIBHg==
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJw7xMzAcAgJI4NDzLTD+AApaqkNBspemN34wA9GBoafjLR1w00s5oszMTBIMBGvfrADeoQjNoAtHAcincHsxWU3LcMHn73o4YPLHTD9xLiTnLIEV3qHmYEvP1BqNyFzYIBQvhuoMmwUDA0AAA7FOGU=
+  </data>
+ </layer>
+ <layer name="arbrefrontière" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYcIh5YOwctXfU3lF7qWP3qL20t3PU3qFn7w9GBoafjMTbSy0szsTAIMFEnB0A6uwqKw==
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJw7zszAcAoJI4PjzKj4FJUwzDx84DiR6kgBxJpHTTtJsZcQOAY04wQJ5gx1e0kFxNqLzT+UuJdSe8m1m1Z6iYlvUu1GL0uIsRdfeJFSPpCqnhh7iQUDFb+UgFF76WsvtTExdgAABXliGA==
+  </data>
+ </layer>
+</map>

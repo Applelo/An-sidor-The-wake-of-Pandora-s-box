@@ -1,0 +1,8 @@
+    Fonds.Ajoute "1", 1
+    Fonds[1].EmulGBA = faux
+    ModeHexa.FondActif = vrai
+    Editeur.Deplace 1296, 786, -8, -8, vrai
+    Fin
+
+
+

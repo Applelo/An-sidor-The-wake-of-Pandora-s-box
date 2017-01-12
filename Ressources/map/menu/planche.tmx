@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="béton" tilewidth="16" tileheight="16">
+  <image source="../../texture/béton.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="10" name="eau" tilewidth="16" tileheight="16">
+  <image source="../../texture/eau.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="19" name="herbe" tilewidth="16" tileheight="16">
+  <image source="../../texture/herbe.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="28" name="buisson" tilewidth="16" tileheight="16">
+  <image source="../../texture/buisson.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="37" name="terre" tilewidth="16" tileheight="16">
+  <image source="../../texture/terre.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="46" name="carellage" tilewidth="16" tileheight="16">
+  <image source="../../texture/carellage.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="50" name="maison" tilewidth="35" tileheight="35">
+  <image source="../../texture/maison.png" width="38" height="38"/>
+ </tileset>
+ <tileset firstgid="51" name="échelle" tilewidth="7" tileheight="7" spacing="3">
+  <image source="../../texture/échelle.png" width="32" height="16"/>
+ </tileset>
+ <tileset firstgid="54" name="fleur" tilewidth="3" tileheight="3" spacing="1">
+  <image source="../../texture/fleur.png" width="7" height="15"/>
+ </tileset>
+ <tileset firstgid="62" name="arbre" tilewidth="22" tileheight="34">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="62" name="tronc" tilewidth="15" tileheight="12">
+  <image source="../../texture/tronc.png" width="15" height="12"/>
+ </tileset>
+ <tileset firstgid="63" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="350" height="300"/>
+ </tileset>
+ <tileset firstgid="441" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJyTYWBgkKUzlgNieSAWpzNWHLV31N5Re0ftHbV31N5BYq8SECvTGasAMQD2jDD9
+  </data>
+ </layer>
+ <layer name="Calque 2" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh8wGKgHYAErEhQa0YzVwxtQEm4UDstUMM8UtLEYAXUTKvDITwGClAjPeIzYzjEDS3K1ZFeVgMAzfQDDw==
+  </data>
+ </layer>
+ <layer name="Calque 3" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBiaYBojA8N0RtzyjXjkKAGrgeauoYLZhNxPK0At9yOD4eQXegBapU1KALY49ANifyQcQAN7scVhMhBzAMU4gZgLiFOJMIcaaRBkryzQDDkglifSXmqkQZC9RkAzjIHYhEh7qQEqgLgSCVfRyV5iAaF8QkqcU7OMIiXOB2sZBQBl8RqW
+  </data>
+ </layer>
+ <layer name="Calque 4" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzby8jAsHeAMCVgD1D/PhLNGEz2kmMOqYBe9qKbSY1wHsz2ooPhYC8p6YIe9mIrJ/DZS610PVTspSUYKvaSEvb41A60vQOBAcajXkM=
+  </data>
+ </layer>
+</map>

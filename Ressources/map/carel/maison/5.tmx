@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="971" name="Tile" tilewidth="16" tileheight="16">
+  <image source="../../../Tile.png" width="700" height="500"/>
+ </tileset>
+ <layer name="sol" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJybysjAMHUQ4F4G7Jge9hIjNpzspQemh99gZqLTo/aO2jvU7EXON4TspVV+JdW/5IQBEyvh8KaFvdUsDAzLgdgZyHbFEo7EhjO109pAYQCbyCYA
+  </data>
+ </layer>
+ <layer name="contour+parquet" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgc4CwQn0PD5+lg7xsg7kXDXowjw95lQPuWAzELE2bYU4KxxRs2/1Ibvxu1d8jbq804MPZ6DUF7Yfn3GJQmBT+jgn/JKa+oEc7k2MsN1MODA/NiMQ+bemzqhioAANeXpOo=
+  </data>
+ </layer>
+ <layer name="escalier/table" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFyMCUZWDsvc88MPYOF9BD43i7O0DpgoOVuub1YvEHNjFjLPbWMTIwNDCSbmcS0KxkIE5hxS8GA4Fo7vkCtPMbGfb2As3uA+J+VvxiMFCDZG8iC/n2gu0hMpzR7QWBuUA755NpLykA3V56AZC9KkD/qQFxMRMCEwN4BsjNww0AAN5mFYM=
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgc4BgzdkwPe7G5g9724hKjpb24wpwaeKD9Rm17j+IxZ6TYS278YtOHyyx8YqTae5IZgfGJUdteUgA282HuI2QvLfIpLr9RKwyoUW7Qy96BqI/oBQAU1mCp
+  </data>
+ </layer>
+</map>

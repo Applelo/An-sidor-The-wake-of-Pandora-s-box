@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="963" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="calque 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJy7x8DAcG8Uj+JRPIpH8SgexSMCAwAK6rpU
+  </data>
+ </layer>
+ <layer name="herbe/eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzFlVEKgzAMhvugu8jsRaoXcV7EeZHNmy4vhRD+0D+dYOADKUm/NkSdUkrTjcyASC6L3icnHAU4vVw2nuRexZx3IfcfhFF4mLUr74Ci3iuDNY09279R+6T7Y71ZPbfcqH+r8BI24iyet9Vz1L9deAtHo1bXR72ofx/hK5wd3ui89gb7Ht3pRbPUmxvxolmynoqeV+RmvYOTV32t7751s14vD317GLetGx28nOj/rrfuan7Hgin7
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJw7xMzAcAiIQUCFAcKmB4YBFShGBoT0UApA9jkDsQsOeVrYSUtwk5H+dlI7bH4A/fCTSv4gJe7EmRgYJJioay+9081A2Yueb0fBwIGBKAMGCgy0X4dDugcAfmgpeg==
+  </data>
+ </layer>
+ <layer name="arbrefrontière" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYcIh5YOwcSfbC7B61l/Z2jto7au9QsZeQmdSyF2YOOqaVvbjsI2Q3PezFZj4p6om1g1gMAFhTPZE=
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJw7zszAcAqIYeAUMwIfx4FPUYhh5hACx0lQSwygplmDxV5C5g6Ef2H2kuLvY0B1J6jgVvS0So69pLodWx4hB5BrL6VgoOwlFYzaSz1z6WEvrvqDVvbiso+Q3fSwF5v5pKgn1g5iMQCdc2kv
+  </data>
+ </layer>
+</map>

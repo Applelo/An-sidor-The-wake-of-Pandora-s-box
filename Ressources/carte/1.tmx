@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="4" height="4" tilewidth="480" tileheight="272">
+ <tileset firstgid="1" name="f_r1" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/1.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="2" name="f_r1_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/1_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="3" name="f_r2" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/2.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="4" name="f_r2_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/2_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="5" name="f_r3" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/3.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="6" name="f_r3_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/3_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="7" name="f_r4" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/4.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="8" name="f_r4_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/4_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="9" name="f_r5" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/5.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="10" name="f_r5_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/5_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="11" name="f_r6" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/6.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="12" name="f_r6_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_rouge/6_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="13" name="p_1" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/pensky/1.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="14" name="p_1_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/pensky/1_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="15" name="f_b1" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_bleu/1.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="16" name="f_b1_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_bleu/1_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="17" name="f_b2" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_bleu/2.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="18" name="f_b2_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_bleu/2_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="19" name="f_b3" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_bleu/3.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="20" name="f_b3_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_bleu/3_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="21" name="f_b4" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_bleu/4.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="22" name="f_b4_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/f_bleu/4_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="23" name="carel_1" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/carel/1.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="24" name="carel_1_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/carel/1_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="25" name="carel_2" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/carel/2.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="26" name="carel_2_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/carel/2_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="27" name="lacia1" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/lacia/1.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="28" name="lacia1_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/lacia/1_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="29" name="lacia2" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/lacia/2.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="30" name="lacia2_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/lacia/2_c.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="31" name="lacia3" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/lacia/3.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="32" name="lacia3_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/lacia/3_c.png" width="480" height="272"/>
+ </tileset>
+ <layer name="base" width="4" height="4">
+  <data encoding="base64" compression="zlib">
+   eJwNw4EGwCAUAMA3ySRJMjPJ/v8vu+OuiEgut9nb5m+x2h2+fj5ODx4oAQE=
+  </data>
+ </layer>
+ <layer name="Calque" width="4" height="4">
+  <data encoding="base64" compression="zlib">
+   eJwNw4EGwCAUAMBnkkmSZGaS/f9XdsddEZFcbrO3zd9itTt8/XycHiBIARE=
+  </data>
+ </layer>
+</map>

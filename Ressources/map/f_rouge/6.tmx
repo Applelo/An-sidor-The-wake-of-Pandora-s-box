@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="963" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="972" name="Tile" tilewidth="16" tileheight="16">
+  <image source="../../Tile.png" width="700" height="500"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxTYWBgUBnFo3gUj+JRPIpH8YjAAGlKR7k=
+  </data>
+ </layer>
+ <layer name="herbe, eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxTYWBgUBmBmAWIWSnAbGTaq0yhu1XR+MgAxL/JSHt79wHxfig+QECfExA7U4BdkMy6C8X3gPg+AXv3EeE2QvgBGfbC1O2nAr6HhIm1l9qYkL1/gPgvkRjdbHxq/zEgAClx9gOY/n8y4g4bZP88wGEGOfaKMzEwSDCRZi82t1IDE7IXm1uJwbjKFmxp4R8R4UyMmZRgfPbSEg+UvaRgACrhmRs=
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJw7xMzAcGgAMAggsykFxNoJU0stQIx9tAIDYecoGBxgoOJ6IOwdiLRNrTylwsjAoMZInt2UgCSgnSkk2guzm96AluUzMfbSw25iympa+hvdbAD99D0b
+  </data>
+ </layer>
+ <layer name="maison,poteau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBj64NEQs5cXiG8zkkcj2/uYGWHmMyQ2PnslmcijKfEvpQBmryULA4MVEFsDsQ0L7e1lZITQKUC7UoE4DYjT6WAvDPQD7ZoAxBOBeBId7R0Fo2AUDG8AAAxmEr8=
+  </data>
+ </layer>
+ <layer name="arbrefrontière/calque poteau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYcIh5YOwcTvY+Bpr5BIifAvEzLObTyl4+FgYGfiAWAGJBFvrZSwjA7GVkRIj9BxGMZGIS7aU3GAg7R6q9A5me6W0/ur30shubvfRwBzH20sJuYu2lBQYAKXNAPQ==
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzNld0KwCAIhYPe/6nmcuyptosGMtSdyrYFh6AfPxUzzilx1T4o7lDEQBmRzMuexdf8i+Yi52Zwl3OmqlWxP4tbRH43h0tij3K/kBiiaxkdXzLf5N7fFT2wi1Eblm2Uy6IuWrhWP0DujPTKSK6M3cuB5wviK6IWtsbt+aOsHHh9Q1v7kw4Oqqoj
+  </data>
+ </layer>
+</map>

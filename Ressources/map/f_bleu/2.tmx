@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="béton" tilewidth="16" tileheight="16">
+  <image source="../../texture/béton.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="10" name="eau" tilewidth="16" tileheight="16">
+  <image source="../../texture/eau.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="19" name="herbe" tilewidth="16" tileheight="16">
+  <image source="../../texture/herbe.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="28" name="buisson" tilewidth="16" tileheight="16">
+  <image source="../../texture/buisson.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="37" name="terre" tilewidth="16" tileheight="16">
+  <image source="../../texture/terre.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="46" name="carellage" tilewidth="16" tileheight="16">
+  <image source="../../texture/carellage.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="50" name="maison" tilewidth="35" tileheight="35">
+  <image source="../../texture/maison.png" width="38" height="38"/>
+ </tileset>
+ <tileset firstgid="51" name="échelle" tilewidth="7" tileheight="7" spacing="3">
+  <image source="../../texture/échelle.png" width="32" height="16"/>
+ </tileset>
+ <tileset firstgid="54" name="fleur" tilewidth="3" tileheight="3" spacing="1">
+  <image source="../../texture/fleur.png" width="7" height="15"/>
+ </tileset>
+ <tileset firstgid="62" name="arbre" tilewidth="22" tileheight="34">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="62" name="tronc" tilewidth="15" tileheight="12">
+  <image source="../../texture/tronc.png" width="15" height="12"/>
+ </tileset>
+ <tileset firstgid="63" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="1024" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="1025" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxLYmBgSBrFo3gUj+JRPIpH8YjAAJ8lwz0=
+  </data>
+ </layer>
+ <layer name="herbe/terre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF5IA/QPwXiv9RwTwnIHZGwi441EkzMjDIQLEsI+X2JjIg/ALyRzIOdUkM1LfXCmiONRDbMOK2F6YGpo5S0IDGb6LcyFFABAClMWrkE1KBFZXSDTLYT13jBr29o2D4AQCH7hGH
+  </data>
+ </layer>
+ <layer name="arbre/eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYGFgYBgIzECCHC612AA+OTxqrfHpJ8ZebGYTYS8pboSB+UC8EE2ZHQGzrQi5C5efoUCakYHhLpC+T4I7sQErZA4LGk2COcQCaxziZtgEsdhth00dNQGhtEVO2iPHDbjECdhJafjgih9CgAuIuYGYh0L7SQW8QMwHxPxo4lZY1JILsJmFy150QGp8YM0HSEAAiAWBWIhUO/GU18j+o0b+ombYjxQAAFvgCRI=
+  </data>
+ </layer>
+ <layer name="arbre frontière" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBggwDJC7Byp9g5U/I5Ee+lpNwvD8LIX3VwWIuXoAUayvYTcQC234bKTUHqgtZ2UYCLsAgCqrgFZ
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJy1lEsKwDAIRFNoQnv/C5cuhCATR40ZcJGPeZIR+91aX8RD1vO+Ds+ZSK/ZHjpbyeJE3/ljBO/rGlBdOmfmeP/Gy7Vydrg797KcLJfVwrzRfRDtDfT2cHj6AuYON6NTXDRXRJcxo7J+i9B8smqq4npUwUX5zLcIl/XsCW6lBxGPK7iMVxEe3gdQYgeF
+  </data>
+ </layer>
+</map>

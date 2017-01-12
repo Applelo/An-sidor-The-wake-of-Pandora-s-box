@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="échelle" tilewidth="16" tileheight="16">
+  <image source="../../../texture/échelle.png" width="32" height="16"/>
+ </tileset>
+ <tileset firstgid="964" name="parquet" tilewidth="16" tileheight="16">
+  <image source="../../../texture/parquet.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="965" name="carellage" tilewidth="16" tileheight="16">
+  <image source="../../../texture/carellage.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="969" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="978" name="Tile" tilewidth="16" tileheight="16">
+  <image source="../../../Tile.png" width="700" height="500"/>
+ </tileset>
+ <layer name="terre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJybysjAMHWE4w4WBoZOIN4MxVuAuJeBfEysvZsptIdce5H13KMAk2svJXaO2jtq72C29zIjBNPS3k9AfISZgeEzifZQw14QOMZMf3vxYVqVk8MZAwCtuVhN
+  </data>
+ </layer>
+ <layer name="calque" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJybysjAMHWAML0BLnvPAvE5KuHzJNj7Boh7qYTfjdo7au8QtReU/1YwIvjLgOxnWMyntr1eQLN2A+k9ULyXRP8+AYoth2KQ+y9DMcj95/H4EWTvLSB9G4rvkGgvyL+fGLFjL0ZMPz5lBrqVeWDt/QkU+wXFv0m0lxsoxoMDszDh5qPLgTAvCemK1mCg6l0QBgClU9Iy
+  </data>
+ </layer>
+ <layer name="tapis" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAooB8IsA+2CUUAMAAAuDAAY
+  </data>
+ </layer>
+ <layer name="table" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAwm2sDAw9LMyMEwE4nQW0vVPAeqxIUMfITORaWxAEuheKVby7ZhMZTcTA3YB3bsbiPcguXsKkD0VCU+jwE+4gAAbA4MgEAuxoYoTE86UgoEI56EEQnCwBzuIAcZrLBDHIcWvDjNxeg8B9RwmM11sAurbzAIpt2DAm0h73wL1vBtNj4MCAAAIGhRV
+  </data>
+ </layer>
+ <layer name="transcalque" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DgQSYrA0MWEs5mHWgXjYJRMApGwfAEAMDsAiw=
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJw7y8zAcHYUDxpMDqCXPZTaic9eUt1Ijr3YzB4oe0kF9I5fetpLTJzQyt4LSHovUCnvYnMTenrAFQa0shdbehyq9o5iyjEAcWAthg==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,67 @@
+#Fichier de projet GBA Graphics
+
+#Infos utiles sur la dernière session
+ .section infos
+  Répertoire = "\\Mac\Dropbox\Team Zenyth\Anésidor\map\test"
+  Script = "script.spt"
+  AidePerso = "lisezmoi.htm"
+
+  convert.couleurMasque = RGB(255,0,254)
+  convert.luminosite   GAMMA=RGB(1.000,1.000,1.000)  ADD=RGB(0.0,0.0,0.0)  ALPHA=RGB(0.0,0.0,0.0)
+  convert.mode = 0
+
+  system.sauverParamsMapsAuto = faux
+  Format = "Standard"
+
+  DefModele "Default"		{
+  }
+  Modele = "Default"
+
+  Plateforme = "Game Boy Advance, Nintendo"
+  GBA.paletteMask = vrai
+  GBA.mirrorMask = vrai
+  GBA.align = 0
+  GBA.revColorOrder = faux
+  GBC.dmgmode = faux
+  Fin
+
+#Eléments de l'arbre du projet
+ .section fichiers
+ #--------------
+  Elément: 1
+  Type: carte
+  Fichier: Z:\Users\Applelo\Skybox\Dropbox\Team Zenyth\Anésidor\map\test\1.map.c
+  Base: Z:\Users\Applelo\Skybox\Dropbox\Team Zenyth\Anésidor\map\test\1.map.c
+ #--------------
+  Elément: 2
+  Type: carte
+  Fichier: Z:\Users\Applelo\Skybox\Dropbox\Team Zenyth\Anésidor\map\test\2.map.c
+  Base: Z:\Users\Applelo\Skybox\Dropbox\Team Zenyth\Anésidor\map\test\1.map.c
+ #--------------
+  Elément: texture
+  Type: tileset
+  Fichier: ..\texture.til.c
+  Base: ..\texture.png
+ #--------------
+  Elément: event
+  Type: palette
+  Fichier: ..\event.pal.c
+  Base: ..\event.png
+ #--------------
+  Elément: event
+  Type: tileset
+  Fichier: ..\event.til.c
+  Base: ..\event.png
+ #--------------
+  Elément: 3
+  Type: carte
+  Fichier: 3
+  Base: 3
+ Fin
+
+#Section où vous pouvez entrer n'importe quelle commande de script. Cela vous permet de régler les différentes variables.
+ .section données
+  Fin
+
+
+

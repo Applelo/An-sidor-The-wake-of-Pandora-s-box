@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="350" height="300"/>
+ </tileset>
+ <tileset firstgid="379" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="terre 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJybwcDAMGMEYjU0fB+IHwDxQyxylGBs9goAsSCNsBAee1Wp7DdkrD5q76i9o/YOS3utgNiaCAxSK8wIoYlRD8I2eOylBx7oemigMAB9Dpoq
+  </data>
+ </layer>
+ <layer name="terre 2" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxrYmBgaKYzbgHi6Qz0BzOR7A0C4mAa4xAs9qbTynNIIHPU3lF7R+0dsfZeQKPpZe9TNJoSe2uAuJZIDFNbR4IemHp0e+kJQPauAeK1dMbrgBgAXJNW6w==
+  </data>
+ </layer>
+ <layer name="Calque 3" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAwHYGBkYOID4C5D9FYi/IYnREkgDzZdlJCw2CiDxwY4F0yOOZLBgUuLIGYhdgNiVVo7EASKAOBKIo+hsby4Q5wFxPp3txQc4gfHFBcTcA5C35AcoPxuMliNDAgAAqIcICg==
+  </data>
+ </layer>
+ <layer name="buche" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxk4MaLikQqcGbHTtAZGBPjEAHq5FRkEAXEwEIeQqI+ScAapTQfSGUCcSaJeSkENENcCcR39rIQDXP60AYrbArHdQMQ/Fe10YUTgUTA8AADRpwmd
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBiZoJ6RPhibvcj2NyFhbHqa0NQQ6zdcYtjMIcVscu2lJaCVvYTilVb2osc5evwTYy++NEguGLV3aKRnfOmTHHtrkDA97R2I8nmkAAAE2juu
+  </data>
+ </layer>
+</map>

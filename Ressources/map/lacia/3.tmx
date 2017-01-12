@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="962" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="963" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="972" name="box" tilewidth="16" tileheight="16">
+  <image source="../../texture/box.png" width="16" height="16"/>
+ </tileset>
+ <layer name="eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxrZGBgaBzFo3gUj+JRPIpH8YjAADoaAQ4=
+  </data>
+ </layer>
+ <layer name="terre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxTYWBgUKEDVmVABfSwcyTa6zIA9qL7lZ7+ZUXD9LJ3FI/iUTyKhyoGAA6+RSE=
+  </data>
+ </layer>
+ <layer name="tronc" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAtuMkIwfQEMPsI2UsNd6HbRYyZhNQS625S7CTWfnLdRC5ATx/Y3IaLTYoduMynR9okJU0MpBuoZQel6ZJce+lhFzYzyPEvoXROqVsoMYOQGlLLJ2LNoWacDKTaoQAAo2QvsQ==
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJw7xMzAcIiGmBAg1gxq2Ueq/djUIItRA+ByP7oYtexDt2MUjIJRMApGwcgBAPPCMUE=
+  </data>
+ </layer>
+ <layer name="box" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDCYgDsUDYS82d1DTLcSYOZzsHQWjYDACAKuDAZ8=
+  </data>
+ </layer>
+ <layer name="arbrefrontière" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYcIgZgkftHd720ttuZHvpafeovaP2Dmd70e0mxT2k+AGbvcj68MkRYw459g5HDAC+9GNG
+  </data>
+ </layer>
+ <layer name="colli" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzdk1EKwDAIQwu9/62Ewk7Vnw1KMF2kdrAG/NGY54+tltI21HXXKM83m6Hvbc6k+tncu1VR5E41M5u7k/kVe3bHH7mRjGwuy87iqr9wCndVyDVgm9NjerzKjvfH4x72WKaRnAhXKbxj1Xd6ddQKuTA=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,10 @@
+    Fonds.Ajoute "map_d", 1
+    Fonds[1].EmulGBA = faux
+    Fonds.Ajoute "map", 2
+    Fonds[2].EmulGBA = faux
+    ModeHexa.FondActif = vrai
+    Editeur.Deplace 1296, 776, 0, 0, vrai
+    Fin
+
+
+

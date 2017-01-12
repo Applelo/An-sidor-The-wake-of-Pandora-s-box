@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../../texture.png" width="350" height="300"/>
+ </tileset>
+ <tileset firstgid="379" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Calque 4" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAvEGaE4IEAA2XvKBgFo2AUjIJRMFgAAMHkAD0=
+  </data>
+ </layer>
+ <layer name="Calque 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJwTZmRgEAZiNQbaY5A9DEhsQzrZDbOLgcb2jOJRPIpH8SgexYMdAwCjP0sV
+  </data>
+ </layer>
+ <layer name="Calque 2" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJwLYmBgCAbiEChNSxyEZFc6EGcA8S8G2oNfULsyofbSG4zaO2rvqL2j9o7aO2ovur01QFxLZ1wHxACovSdV
+  </data>
+ </layer>
+ <layer name="table" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh44MSIwISAMyMEU9NMfIANqJ8dDXNQaCYxQBpohwwalqWDvcMJsOGIL1zi1NIrjSO+cIlTSy8I4MobxOQZSvQOBBiNX8Li1NI7CoYXAAD4DQiR
+  </data>
+ </layer>
+ <layer name="bibliopp" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGNnBhhGBsYvjEiVFDyB56AwAY9QRR
+  </data>
+ </layer>
+ <layer name="coli" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJyrZ2RgqB8gDAIgugkJUwsgm4lsVz2JduBzO6lmkAKaGLFjWttLDTBY7MUVX8TEIyl60fm44ouYeCRF72AJ54GydzR+aQNGqr01UIwMaogQJ0YNNvGBqndBGAD2CVc9
+  </data>
+ </layer>
+</map>

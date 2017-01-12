@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="17" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="arbre" tilewidth="22" tileheight="32">
+  <image source="../../texture/arbre.png" width="22" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="texture" tilewidth="16" tileheight="16">
+  <image source="../../texture.png" width="500" height="500"/>
+ </tileset>
+ <tileset firstgid="963" name="Tile" tilewidth="16" tileheight="16">
+  <image source="../../Tile.png" width="700" height="500"/>
+ </tileset>
+ <tileset firstgid="2296" name="collisions" tilewidth="16" tileheight="16">
+  <image source="../../collisions.png" width="48" height="48"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzllWEOgjAMRjv1GIgyj6GIcAwFvf8tbONISrNKp0BM/PFCQrq9NbB+mQPYGsmRipElrJX7HJETcjPQCu/VuI5DrjJ46elhnAMMvcVI/Vmcs2K+mLdWaIT38qa2Nnp3yJ4h67/FQ9wbO9sc/JrXw7LebqF+6e61bvg/r5HNzP3KvrU7+m/e+4dIT/+eZnpu8K7Cd09F3ssi7K3NydQZrNGxHh/uNVMb4aWMmDrrNPo8klk2RdZZ8vQJhhB1jQ==
+  </data>
+ </layer>
+ <layer name="maison" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwwFYsDAwWAKxFRBbs9DP3mSgXSlAnArEaSTaa8+IncanBgb6gHb1A/EEIJ6IxV584QEyC4YJuY+QGnSALzxoaS++8CDVXlLtptQ8ato50Pai0+h2YLNvKOZdSgChvDsKaA8AAdwX8w==
+  </data>
+ </layer>
+ <layer name="dessus maison" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBie4BEzA8NjIH4CxE+Z6WcvLwsDAx8Q8wOxAAv97CUERsNjFAwVMJpWR8EooC0AANyVC60=
+  </data>
+ </layer>
+ <layer name="eau" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBiZoBuIewbA3lVAvHoA7MUG5BkHxl67QWRvNhDnYMG5NLQXZGc3Hkwtu9HtXUnAXmqlS2zhDLJ7FRZMzbwAs1eBzulrMKVnagNseYGa9sLyHzqgdfncBbVjpAIA66saIQ==
+  </data>
+ </layer>
+ <layer name="herbe" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBiZwHWgHTAKRjxgBWI2JMxOJ3udgdgFCY/mhVEw2AA98gIrHewYrAAAyhUBxA==
+  </data>
+ </layer>
+ <layer name="arbre" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDCQwG2gHjIJRMApGFAAA+HAANw==
+  </data>
+ </layer>
+ <layer name="collisions" width="30" height="17" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJz7w8HA8IcEjAxI0UcI/yeAkQEhteiYWP9QA/wAmvkTiulp728ks//SwT5cAN1e5PD4RUN3oNuLHh7E6iM1zKihhxy7h5K9hOwmBdAyPeNLq7S0F19apVf+hdlLr/IKBihNj7Syl5Z13WCwFwDFouKY
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="4" height="4" tilewidth="480" tileheight="272">
+ <tileset firstgid="1" name="4" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/lacia/4.png" width="480" height="272"/>
+ </tileset>
+ <tileset firstgid="2" name="lacia4_c" tilewidth="480" tileheight="272">
+  <image source="../../Cuby/map/lacia/4_c.png" width="480" height="272"/>
+ </tileset>
+ <layer name="base" width="4" height="4">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFjAykAQAAcAAC
+  </data>
+ </layer>
+ <layer name="calque" width="4" height="4">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFTAykAQAAoAAD
+  </data>
+ </layer>
+</map>
