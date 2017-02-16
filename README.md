@@ -1,4 +1,4 @@
-# An-sidor-The-wake-of-Pandora-s-box
+# Anesidor : The wake of Pandora's box
 Game and tools for an abandonned project,  Anésidor: The wake of Pandora's box.
 You can read storyboard in french with the game story and concept. 
 
